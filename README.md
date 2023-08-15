@@ -1,4 +1,6 @@
-### Hi there 👋
+Я <b>Артем</b>, разработчик игр на <b>Unity</b>.
+
+<b>Мои проекты:</b>
 
 <!--
 **Artem1524/Artem1524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
