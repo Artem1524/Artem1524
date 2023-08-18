@@ -29,3 +29,10 @@
   Оптимизация графики. <a href="https://github.com/Artem1524/graph-optimization">Репозиторий проекта по оптимизации графики</a>.
   </li>
 </ul>
+
+Пройденные курсы:
+<ul>
+	<li>
+	ООО «Нетология». Разработчик игр на Unity. <a href="https://github.com/Artem1524/Artem1524/blob/master/certificate.pdf">Сертификат</a>.
+	</li>
+</ul>
