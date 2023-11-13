@@ -1,6 +1,6 @@
 Я <b>Артем Филяев</b>, разработчик игр на <b>Unity</b>.
 
-<b>Мои проекты:</b>
+## Мои проекты
 
 <ul>
   <li>
@@ -23,7 +23,29 @@
   </li>
 </ul>
 
-Проекты по оптимизации:
+## Скриншоты
+
+<a href="https://github.com/Artem1524/RTS_light"/>RTS_light</a>
+
+<img src="https://github.com/Artem1524/RTS_light/blob/master/RTS_light.gif"/>
+
+<a href="https://github.com/Artem1524/Top_down_shooter">Top-down shooter</a>
+
+<img src="https://github.com/Artem1524/Top_down_shooter/blob/master/TDS_game.gif"/>
+
+<a href="https://github.com/Artem1524/3D_Arkanoid">3D Арканоид</a>
+
+<img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/Arkanoid.gif"/>
+
+<a href="https://github.com/Artem1524/Checkers">Шашки</a>
+
+<img src="https://github.com/Artem1524/Checkers/blob/master/Checkers.gif"/>
+
+<a href="https://github.com/Artem1524/Fireworks">Фейерверк</a>
+
+<img src="https://github.com/Artem1524/Fireworks/blob/master/Fireworks.gif"/>
+
+## Проекты по оптимизации:
 <ul>
   <li>
   Профилирование и оптимизация ресурсов. <a href="https://github.com/Artem1524/res-optimization">Репозиторий проекта по оптимизации кода</a>.
@@ -33,7 +55,7 @@
   </li>
 </ul>
 
-Пройденные курсы:
+## Пройденные курсы:
 <ul>
 	<li>
 	ООО «Нетология». Разработчик игр на Unity. <a href="https://github.com/Artem1524/Artem1524/blob/master/certificate.pdf">Сертификат</a>.
