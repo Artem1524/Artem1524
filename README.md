@@ -4,19 +4,22 @@
 
 <ul>
   <li>
-  Top-down shooter. <a href="https://github.com/Artem1524/Top_down_shooter">Репозиторий с дипломной работой</a>.
+  RTS_light. <a href="https://github.com/Artem1524/RTS_light"/>Репозиторий с проектом</a>.
   </li>
   <li>
-  Top-down shooter <b>build</b>. <a href="https://github.com/Artem1524/Top_down_shooter_build">Репозиторий со сборкой дипломного проекта для <b>Windows</b></a>.
+  Top-down shooter. <a href="https://github.com/Artem1524/Top_down_shooter">Репозиторий с игрой</a>.
   </li>
   <li>
-  Шашки. <a href="https://github.com/Artem1524/Checkers">Репозиторий с игрой</a>.
+  Top-down shooter <b>build</b>. <a href="https://github.com/Artem1524/Top_down_shooter_build">Репозиторий со сборкой игры для <b>Windows</b></a>.
   </li>
   <li>
   3D Арканоид. <a href="https://github.com/Artem1524/3D_Arkanoid">Репозиторий с игрой</a>.
   </li>
   <li>
-  Раннер. <a href="https://github.com/Artem1524/Runner">Репозиторий с игрой</a>.
+  Шашки. <a href="https://github.com/Artem1524/Checkers">Репозиторий с игрой</a>.
+  </li>
+  <li>
+  Фейерверк. <a href="https://github.com/Artem1524/Fireworks">Репозиторий с проектом</a>.
   </li>
 </ul>
 
